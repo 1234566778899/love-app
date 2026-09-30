@@ -23,8 +23,8 @@ class MercadoPagoService {
                         description: 'Un año de páginas ilimitadas, sin caducidad, URL personalizada y diseño con IA',
                         quantity: 1,
                         currency_id: 'PEN',
-                        // ~9 USD al cambio de referencia; revisar si el tipo se mueve.
-                        unit_price: 34,
+                        // ~3.99 USD al cambio de referencia; revisar si el tipo se mueve.
+                        unit_price: 15,
                     },
                 ],
                 payer: {
